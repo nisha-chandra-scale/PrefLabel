@@ -4,7 +4,7 @@
 
 A full-stack annotation tool for collecting human preference data on LLM outputs. Presents paired model responses side-by-side and captures ranked preferences with optional free-text rationale.
 
-![PrefLabel](https://img.shields.io/badge/Next.js-14-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+![PrefLabel](https://img.shields.io/badge/Next.js-14-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 
 ## Features
 
@@ -77,7 +77,3 @@ Labels are stored locally in `data/pairs.json` and `data/labels.json`. For produ
 - **TypeScript**
 - **Tailwind CSS**
 - File-based JSON storage (no database required)
-
-## License
-
-MIT

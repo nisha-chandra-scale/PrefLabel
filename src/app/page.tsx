@@ -82,12 +82,6 @@ export default function Home() {
           ))}
         </div>
       </section>
-
-      {/* Footer */}
-      <footer className="border-t border-border px-8 py-4 flex items-center justify-between text-xs font-mono text-dim">
-        <span>github.com/nisha-chandra/preflabel</span>
-        <span>MIT License</span>
-      </footer>
     </main>
   );
 }
